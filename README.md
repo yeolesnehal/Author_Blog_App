@@ -58,5 +58,10 @@ Features:
 <img width="259" alt="Capture6" src="https://user-images.githubusercontent.com/44592616/56477495-29f16c00-645b-11e9-9a85-10f3c70f2447.PNG">    <img width="257" alt="Capture7" src="https://user-images.githubusercontent.com/44592616/56477511-55745680-645b-11e9-8ef2-3d0c00410520.PNG">
 
 
+Application Architecture:
+
+![Application_Architecture](https://user-images.githubusercontent.com/44592616/56478426-329a7000-6464-11e9-81da-24d9ae176525.png)
+
+
 
 
