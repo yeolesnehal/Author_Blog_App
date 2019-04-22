@@ -47,3 +47,7 @@ Features:
 •	Image Cropping 
 •	Image Compressing
 
+
+<img width="256" alt="Home page" src="https://user-images.githubusercontent.com/44592616/56477345-8784b900-6459-11e9-8058-8d660f5057c9.PNG">
+
+
