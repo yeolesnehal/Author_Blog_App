@@ -50,4 +50,7 @@ Features:
 
 <img width="256" alt="Home page" src="https://user-images.githubusercontent.com/44592616/56477345-8784b900-6459-11e9-8058-8d660f5057c9.PNG">       <img width="259" alt="Login" src="https://user-images.githubusercontent.com/44592616/56477381-b9961b00-6459-11e9-9d40-97c2c155f9df.PNG">       <img width="258" alt="registr" src="https://user-images.githubusercontent.com/44592616/56477408-f6621200-6459-11e9-9aa3-46e3d0b8ac97.PNG">
 
+<img width="256" alt="Capture" src="https://user-images.githubusercontent.com/44592616/56477425-3b864400-645a-11e9-9ab4-668bc17f877e.PNG">
+
+
 
