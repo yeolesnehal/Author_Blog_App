@@ -52,7 +52,7 @@ Features:
 
 <img width="256" alt="Capture" src="https://user-images.githubusercontent.com/44592616/56477425-3b864400-645a-11e9-9ab4-668bc17f877e.PNG">    <img width="259" alt="Capture1" src="https://user-images.githubusercontent.com/44592616/56477433-5a84d600-645a-11e9-8a97-6e553126833e.PNG">    <img width="257" alt="Capture2" src="https://user-images.githubusercontent.com/44592616/56477445-83a56680-645a-11e9-87c8-e75e9d4ca7ea.PNG">
 
-<img width="261" alt="Capture3" src="https://user-images.githubusercontent.com/44592616/56477462-b0f21480-645a-11e9-9b21-65ed9e6f3c3c.PNG">
+<img width="261" alt="Capture3" src="https://user-images.githubusercontent.com/44592616/56477462-b0f21480-645a-11e9-9b21-65ed9e6f3c3c.PNG">    <img width="257" alt="Capture4" src="https://user-images.githubusercontent.com/44592616/56477479-ded75900-645a-11e9-9228-c742383af9cb.PNG">
 
 
 
