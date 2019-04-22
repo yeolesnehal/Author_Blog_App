@@ -60,7 +60,8 @@ Features:
 
 Application Architecture:
 
-![Application_Architecture](https://user-images.githubusercontent.com/44592616/56478426-329a7000-6464-11e9-81da-24d9ae176525.png)
+![Application_Architecture](https://user-images.githubusercontent.com/44592616/56478426-329a7000-6464-11e9-81da-24d9ae176525.png)     ![capture](https://user-images.githubusercontent.com/44592616/56486507-a5b7dc80-648c-11e9-8033-e45c31cc2cef.png)
+
 
 
 
