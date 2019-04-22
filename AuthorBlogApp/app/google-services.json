@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1090693917881",
+    "firebase_url": "https://author-blog-app.firebaseio.com",
+    "project_id": "author-blog-app",
+    "storage_bucket": "author-blog-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090693917881:android:1d9cbd2f02a2ac6b",
+        "android_client_info": {
+          "package_name": "edu.sjsu.android.author_blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090693917881-klqcn8qdsk8a3q8o0rj2hdmiku390fi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.sjsu.android.author_blog_app",
+            "certificate_hash": "5dae2b1176f353492ae89e35600df073e2d12f23"
+          }
+        },
+        {
+          "client_id": "1090693917881-7iqgkg4p65dli39huaum6j0m5768pbt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDADnpIrCB0F-fzycH6H81PUadoRqK-mKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090693917881-7iqgkg4p65dli39huaum6j0m5768pbt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
